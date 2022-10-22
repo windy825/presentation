@@ -118,5 +118,32 @@
 
 <br>
 
-## [4] 자료
+## [4] 발표 자료
 
+애니메이션 효과와 참고자료가 많아 용량이 크기 때문에 
+
+부득이하게 다운로드로 확인할 수 있도록 했습니다.
+
+<br>
+
+#### [자율주행 무인 택시 서비스 알파카] 2022.08 ~ 2022.10
+
+[**0901 발표대상 분석**](https://github.com/windy825/presentation/blob/master/0901%20%EB%B0%9C%ED%91%9C%EB%8C%80%EC%83%81%20%EB%B6%84%EC%84%9D.md) :  발표를 위한 대상 분석
+
+[0916 자율주행 시스템 흐름](https://github.com/windy825/presentation/blob/master/0916%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%9D%90%EB%A6%84.pptx) : 중간 발표 PPT (개발 흐름 설명 파트) 
+
+- [피드백](https://github.com/windy825/presentation/blob/master/0916%20%EB%B0%9C%ED%91%9C%20%ED%94%BC%EB%93%9C%EB%B0%B1.png)
+
+[0930 최종발표](https://github.com/windy825/presentation/blob/master/0930%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pptx) : 프로젝트 최종 발표 PPT
+
+- [피드백](https://github.com/windy825/presentation/blob/master/1002%20%EB%B0%9C%ED%91%9C%20%ED%94%BC%EB%93%9C%EB%B0%B1.png)
+
+- [발표예시 영상](https://github.com/windy825/presentation/blob/master/0930%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%20%EC%9D%BC%EB%B6%80.mp4)
+
+<br>
+
+#### [기업연계 SVM 개발 프로젝트] 2022.10 ~
+
+[1024 SVM 중간발표](https://github.com/windy825/presentation/blob/master/1024%20SVM%20%EC%A4%91%EA%B0%84%20%EB%B0%9C%ED%91%9C%20.pptx) : 중간발표 PPT (기획 및 개발 흐름)
+
+- 피드백 시스템 없어서 못받음...
