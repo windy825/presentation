@@ -54,7 +54,7 @@
 
 <br>
 
-[발표에 대한 스토리 더 보기]()
+[발표에 대한 스토리 더 보기](https://github.com/windy825/presentation/blob/master/%EB%B0%9C%ED%91%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%83%9D%EA%B0%81.md)
 
 <br>
 
