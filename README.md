@@ -86,6 +86,6 @@
 
 #### [기업연계 SVM 개발 프로젝트] 2022.10 ~
 
-[1024 SVM 중간발표](https://github.com/windy825/presentation/blob/master/1024%20SVM%20%EC%A4%91%EA%B0%84%20%EB%B0%9C%ED%91%9C%20.pptx) : 중간발표 PPT (기획 및 개발 흐름)
+[1024 SVM 중간발표]([https://github.com/windy825/presentation/blob/master/1024%20SVM%20%EC%A4%91%EA%B0%84%20%EB%B0%9C%ED%91%9C%20.pptx](https://github.com/windy825/presentation/blob/master/SVM%20%EC%A4%91%EA%B0%84%20%EB%B0%9C%ED%91%9C%20.pptx)) : 중간발표 PPT (기획 및 개발 흐름)
 
 - 피드백 시스템 없어서 못받음...
