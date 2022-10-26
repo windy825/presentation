@@ -80,8 +80,6 @@
 
 - [피드백](https://github.com/windy825/presentation/blob/master/1002%20%EB%B0%9C%ED%91%9C%20%ED%94%BC%EB%93%9C%EB%B0%B1.png)
 
-- [발표예시 영상](https://github.com/windy825/presentation/blob/master/0930%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%20%EC%9D%BC%EB%B6%80.mp4)
-
 <br>
 
 #### [기업연계 SVM 개발 프로젝트] 2022.10 ~
